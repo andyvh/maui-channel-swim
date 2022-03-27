@@ -1,5 +1,6 @@
-import logo from './logo.svg';
+import logo from './MCS_logo.gif';
 import './App.css';
+import React from 'react';
 
 function App() {
   return (
